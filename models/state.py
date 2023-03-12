@@ -1,12 +1,10 @@
 #!/usr/bin/python3
-"""This module creates a User class"""
+"""This module creates a Amenity class"""
+
 from models.base_model import BaseModel
 
 
-class User(BaseModel):
-    """Class for managing user objects"""
+class Amenity(BaseModel):
+    """Class for managing amenity objects"""
 
-    email = ""
-    password = ""
-    first_name = ""
-    last_name = ""
+    name = ""
