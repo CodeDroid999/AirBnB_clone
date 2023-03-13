@@ -60,7 +60,7 @@ Function: Shows the instance details of the class
                 # check if class name exists
                 if class_name in storage.classes():
                     # check if instance_id exists
-                    key = f"{class_name}.{instance_id}"
+                    key = f"{class_name}.{instance_id}";
                     if key not in storage.all():
                         print("** no instance found **")
                     else:
