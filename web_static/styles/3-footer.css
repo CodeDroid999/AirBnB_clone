@@ -3,14 +3,14 @@
  */
 /* Footer style */
 footer {
-    border-top: 1px solid #CCCCCC;
-    text-align: center;
-    background-color: #ffffff;
-    height: 60px;
-    width: 100%;
-    bottom: 0;
-    justify-content: center;
-    position: relative;
-    align-items: center;
-    display: flex;
+            border-top: 1px solid #CCCCCC;
+            text-align: center;
+            background-color: #ffffff;
+            height: 60px;
+            width: 100%;
+            bottom: 0;
+            justify-content: center;
+            position: relative;
+            align-items: center;
+            display: flex;
 }
