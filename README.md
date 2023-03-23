@@ -1,5 +1,5 @@
 ### AirBnB_clone
-A complete web application, integrating database storage, a back-end API, and front-end interfacing in a clone of AirBnB.
+A complete web application, integrating database storage, a back-end API, and front-end interfacing in a clone of AirBnB.This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 ## Description
 
 It's the first step towards building a first full web application: an AirBnB clone. 
